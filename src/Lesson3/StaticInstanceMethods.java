@@ -2,10 +2,10 @@ package Lesson3;
 
 public class StaticInstanceMethods {
 
-    static void address() {
+    public static void address() {
         System.out.println("Pulungdagal");
         System.out.println("Solib");
-        System.out.println("Pulungdagal");
+        System.out.println("Floridablanca");
 
     }
     public static void main(String[] args) {

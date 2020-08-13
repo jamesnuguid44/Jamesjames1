@@ -13,15 +13,15 @@ public class exercise5 {
         System.out.print("Enter seconds: ");
         int second = scan.nextInt();
 
-        float totalsec = ((hour*60)+minute) *60 + second;
+        float totalsec = ((hour*60)+minute) *60f + second;
         //System.out.println(totalsec);
-        float totalkm = meter/1000;
+        float totalkm = meter/1000.0f;
         //System.out.println(totalkm);
-        float miles = meter/1609;
+        float miles = meter/1609.34f;
         //System.out.println(miles);
 
         System.out.println("\nYour speed in meters/second is " + (meter/totalsec));
-        System.out.println("your speed in km/h is " + (totalkm/hour));
+        System.out.println("your speed in km/h is " + ((totalkm)/ (totalsec/3600.0f)));
         System.out.println("Your speed in mile/h is " + (miles/hour));
 
     }
