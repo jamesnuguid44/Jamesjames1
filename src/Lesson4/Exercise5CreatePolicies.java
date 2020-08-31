@@ -10,5 +10,8 @@ public class Exercise5CreatePolicies {
         first.display();
         second.display();
         third.display();
+        //added to test if it will compile without a defult constructor
+        CarInsurancePolicy fourth = new CarInsurancePolicy();
+        fourth.display();
     }
 }

@@ -5,7 +5,13 @@ public class CarInsurancePolicy {
     private int numPayments;
     private String residentCity;
 
-    //constructor
+    //constructor default added so main class can compile
+    public CarInsurancePolicy(){
+        policyNumber = 0;
+        numPayments = 0;
+        residentCity = null;
+    }
+    //constructors
     public CarInsurancePolicy(int num, int payments, String city){
         policyNumber = num;
         numPayments = payments;
