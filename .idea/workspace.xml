@@ -19,16 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="exercises9">
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/CreateSpaServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/SavingsCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/SpaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LessonExercises/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LessonExercises/Exercise11TestMyTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LessonExercises/MyTime.java" afterDir="false" />
+    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="FinishedExercises">
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/CarInsurancePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Exercise2AdderMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Exercise3DemoOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Exercise4CreateSpaServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Exercise5CreatePolicies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/SpaServiceWithConstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/StaticMethod4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LessonExercises/Exercise10Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LessonExercises/Exercise10CircleMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +60,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Exercise11TestMyTime">
-    <configuration name="CallAMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.CallAMethod" />
-      <module name="James james 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise5CreatePolicies">
     <configuration name="CreateSpaServices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.CreateSpaServices" />
       <module name="James james 1" />
@@ -87,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise10CircleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonExercises.Exercise10CircleMain" />
+    <configuration name="Exercise2AdderMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Exercise2AdderMainClass" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LessonExercises.*" />
+          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise11TestMyTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonExercises.Exercise11TestMyTime" />
+    <configuration name="Exercise3DemoOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Exercise3DemoOverload" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LessonExercises.*" />
+          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInstanceMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.StaticInstanceMethods" />
+    <configuration name="Exercise4CreateSpaServices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Exercise4CreateSpaServices" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.*" />
+          <option name="PATTERN" value="Lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5CreatePolicies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Exercise5CreatePolicies" />
+      <module name="James james 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise11TestMyTime" />
-        <item itemvalue="Application.Exercise10CircleMain" />
+        <item itemvalue="Application.Exercise5CreatePolicies" />
+        <item itemvalue="Application.Exercise4CreateSpaServices" />
         <item itemvalue="Application.CreateSpaServices" />
-        <item itemvalue="Application.CallAMethod" />
-        <item itemvalue="Application.StaticInstanceMethods" />
+        <item itemvalue="Application.Exercise3DemoOverload" />
+        <item itemvalue="Application.Exercise2AdderMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597276901423</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FinishedExercises">
+      <created>1597720701378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597720701378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,14 +210,15 @@
     <MESSAGE value="newExercises" />
     <MESSAGE value="newExercisessssssss" />
     <MESSAGE value="exercises9" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercises9" />
+    <MESSAGE value="FinishedExercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="FinishedExercises" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1597276857762">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1598446686256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1529" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596254270496" />
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1597276857762" />
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1598446686256" />
     <state x="1813" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594013311987">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
@@ -223,11 +231,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1597276842436" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597708782979">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598160688513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1829" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1595900311651" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597708782979" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598160688513" />
     <state x="551" y="262" key="Github.ShareDialog" timestamp="1596417387096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,34 +244,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596417403746" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1597720408820">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598845260331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597720408820" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1597720408820">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598845260331" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598845260331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597720408820" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1597720408819">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598845260331" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598845260331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597720408819" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1597720408820">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598845260331" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598845260331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597720408820" />
-    <state x="455" y="84" key="RollbackChangesDialog" timestamp="1597051249013">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598845260331" />
+    <state x="455" y="84" key="RollbackChangesDialog" timestamp="1598845113561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="455" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597051249013" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597276907841">
+    <state x="455" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598845113561" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597720705476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597276907841" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597720705476" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597684061888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
