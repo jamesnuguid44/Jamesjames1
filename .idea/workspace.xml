@@ -22,7 +22,7 @@
     <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="Lesson5FinishedExercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson5/Couple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Couple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/TestWedding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/TestWedding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson5/Wedding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Wedding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600014922636</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson5FinishedExercises">
+      <created>1600042877717</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600042877717</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,34 +270,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596417403746" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600014992911">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600043074554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600014992911" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600014992911">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600043074554" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600043074554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600014992911" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600014992911">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600043074554" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600043074554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600014992911" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600014992911">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600043074554" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600043074554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600014992911" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600043074554" />
     <state x="455" y="84" key="RollbackChangesDialog" timestamp="1598845113561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="455" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598845113561" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600014925860">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600042879811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600014925860" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600042879811" />
     <state x="413" y="114" key="extract.method.dialog" timestamp="1600010820532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -300,5 +307,16 @@
     </state>
     <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1594214717318" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597684061888" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson5/TestWedding.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

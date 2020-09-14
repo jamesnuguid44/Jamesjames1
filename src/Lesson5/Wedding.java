@@ -10,7 +10,7 @@ public class Wedding {
 
     @Override
     public String toString() {
-        return "Wedding date: " + weddingDate+
+        return "Wedding date: " + weddingDate.getMonth() +" "+ weddingDate.getDayOfMonth()+ " " + weddingDate.getYear() +
                 "\nCouple is "+ husband + " and " + wife +
                 "\nThe Venue is " + place;
     }
