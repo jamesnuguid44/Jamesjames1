@@ -6,9 +6,9 @@ public class Person {
     private String lastName;
     private LocalDate birthdate;
 
-    public Person(String firstName, String lastName, int year, int month, int day){
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public Person(String first, String last, int year, int month, int day){
+        firstName = first;
+        lastName = last;
         birthdate = LocalDate.of(year, month, day);
     }
 
