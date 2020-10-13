@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="Lesson-06-Finished-Exercises">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/StudentMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeExercisesLesson0406/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeExercisesLesson0406/PickTwoCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeExercisesLesson0406/PickTwoCardsV2.java" afterDir="false" />
+    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="practice-exercises-lesson-04-06">
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/CardV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/PickTwoCardsLesson7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/PickTwoCardsV2Lesson7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +55,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.PickTwoCardsV2">
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.Exercise2" />
+  <component name="RunManager" selected="Application.PickTwoCardsV2Lesson7">
+    <configuration name="PickTwoCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeExercisesLesson0406.PickTwoCards" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="PracticeExercisesLesson0406.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PickTwoCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeExercisesLesson0406.PickTwoCards" />
+    <configuration name="PickTwoCardsLesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.PickTwoCardsLesson7" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeExercisesLesson0406.*" />
+          <option name="PATTERN" value="Lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.RockPaperScissors" />
+    <configuration name="PickTwoCardsV2Lesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.PickTwoCardsV2Lesson7" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="Lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PickTwoCardsV2Lesson7" />
+        <item itemvalue="Application.PickTwoCardsLesson7" />
         <item itemvalue="Application.PickTwoCardsV2" />
         <item itemvalue="Application.PickTwoCards" />
         <item itemvalue="Application.StudentMainClass" />
-        <item itemvalue="Application.RockPaperScissors" />
-        <item itemvalue="Application.Exercise2" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600582099477</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="practice-exercises-lesson-04-06">
+      <created>1601127370931</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601127370931</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +259,8 @@
     <MESSAGE value="Lesson4FinishedExercises" />
     <MESSAGE value="Lesson5FinishedExercises" />
     <MESSAGE value="Lesson-06-Finished-Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson-06-Finished-Exercises" />
+    <MESSAGE value="practice-exercises-lesson-04-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice-exercises-lesson-04-06" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1598446686256">
@@ -287,34 +293,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596417403746" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601126239221">
+    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1602598376068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601126239221" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601126239221">
+    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
+    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1602598376068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601126239221" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601126239221">
+    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
+    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1602598376068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601126239221" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601126239221">
+    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
+    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1602598376068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601126239221" />
+    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
     <state x="455" y="84" key="RollbackChangesDialog" timestamp="1598845113561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="455" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598845113561" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600582102788">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601127374258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600582102788" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601127374258" />
     <state x="413" y="114" key="extract.method.dialog" timestamp="1600010820532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
