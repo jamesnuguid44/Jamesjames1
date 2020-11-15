@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="practice-exercises-lesson-04-06">
-      <change afterPath="$PROJECT_DIR$/src/Lesson7/CardV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson7/PickTwoCardsLesson7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson7/PickTwoCardsV2Lesson7.java" afterDir="false" />
+    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="Lesson7">
+      <change afterPath="$PROJECT_DIR$/src/Lesson8/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +56,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.PickTwoCardsV2Lesson7">
-    <configuration name="PickTwoCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeExercisesLesson0406.PickTwoCards" />
+  <component name="RunManager" selected="Application.Exercise3">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Exercise1" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeExercisesLesson0406.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PickTwoCardsLesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7.PickTwoCardsLesson7" />
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Exercise2" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson7.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PickTwoCardsV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeExercisesLesson0406.PickTwoCardsV2" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Exercise3" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeExercisesLesson0406.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.StudentMainClass" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.test" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.PickTwoCardsV2Lesson7" />
-        <item itemvalue="Application.PickTwoCardsLesson7" />
-        <item itemvalue="Application.PickTwoCardsV2" />
-        <item itemvalue="Application.PickTwoCards" />
-        <item itemvalue="Application.StudentMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601127370931</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lesson7">
+      <created>1602598952925</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602598952925</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,18 +268,14 @@
     <MESSAGE value="Lesson5FinishedExercises" />
     <MESSAGE value="Lesson-06-Finished-Exercises" />
     <MESSAGE value="practice-exercises-lesson-04-06" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice-exercises-lesson-04-06" />
+    <MESSAGE value="Lesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1598446686256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1529" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596254270496" />
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1598446686256" />
-    <state x="1813" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594013311987">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state x="1813" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1594013311987" />
     <state x="451" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1601104958007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -283,44 +287,31 @@
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600579267363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1829" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1595900311651" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600579267363" />
-    <state x="551" y="262" key="Github.ShareDialog" timestamp="1596417387096">
+    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1605455621571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="551" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596417387096" />
-    <state x="452" y="62" key="Github.UntrackedFilesDialog" timestamp="1596417403746">
+    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605455621571" />
+    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1605455621571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="452" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596417403746" />
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1602598376068">
+    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605455621571" />
+    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1605455621571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
-    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1602598376068">
+    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605455621571" />
+    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1605455621571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
-    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1602598376068">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
-    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1602598376068">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596256741574" />
-    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602598376068" />
+    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605455621571" />
     <state x="455" y="84" key="RollbackChangesDialog" timestamp="1598845113561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="455" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598845113561" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601127374258">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602598957319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601127374258" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602598957319" />
     <state x="413" y="114" key="extract.method.dialog" timestamp="1600010820532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -328,7 +319,6 @@
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597684061888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1594214717318" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597684061888" />
   </component>
 </project>
