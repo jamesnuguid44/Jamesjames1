@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="Lesson10">
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/ArrayMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/DistanceFromAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/NineInts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,18 +50,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaKata" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CreateSpaServices">
-    <configuration name="CountByAnything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.CountByAnything" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\James james 1\src\Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayMethodDemo">
+    <configuration name="ArrayMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson01.ArrayMethodDemo" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson9.*" />
+          <option name="PATTERN" value="Intermediate.Lesson01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +74,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateSpaServices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Lesson3.CreateSpaServices" />
+    <configuration name="DistanceFromAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson01.DistanceFromAverage" />
+      <module name="James james 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate.Lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Lesson4.Exercise1" />
+      <module name="James james 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.Lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NineInts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson01.NineInts" />
+      <module name="James james 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate.Lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrewrittenMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Lesson3.PrewrittenMethod" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
@@ -79,52 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Diagonal0s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson10.Diagonal0s" />
-      <module name="James james 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson10.Exercise1" />
-      <module name="James james 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.Exercise2" />
-      <module name="James james 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateSpaServices" />
-        <item itemvalue="Application.Diagonal0s" />
+        <item itemvalue="Application.ArrayMethodDemo" />
+        <item itemvalue="Application.PrewrittenMethod" />
         <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.CountByAnything" />
-        <item itemvalue="Application.Exercise2 (1)" />
+        <item itemvalue="Application.DistanceFromAverage" />
+        <item itemvalue="Application.NineInts" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607270818199</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update">
+      <created>1607306268278</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607306268278</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +304,7 @@
     <MESSAGE value="Lesson8" />
     <MESSAGE value="Lesson9" />
     <MESSAGE value="Lesson10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson10" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
