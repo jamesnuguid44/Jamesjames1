@@ -8,7 +8,6 @@ public class ArrayMethodDemo {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        //int[] numbers = new int[8];
         int answer;
 
         for (int arrayNum = 0; arrayNum<numbers.length; arrayNum++){

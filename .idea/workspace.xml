@@ -19,11 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="Lesson10">
-      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/ArrayMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/DistanceFromAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/NineInts.java" afterDir="false" />
+    <list default="true" id="ddbe57d6-4009-4550-bc35-93a93efa746f" name="Default Changelist" comment="IntermediateLesson1">
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/CreateAliens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/DemoHorses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/Jupiterian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/Martian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lesson02/RaceHorse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate/Lesson01/ArrayMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate/Lesson01/ArrayMethodDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +56,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaKata" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\IdeaProjects\James james 1\src\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayMethodDemo">
+  <component name="RunManager" selected="Application.DemoHorses">
     <configuration name="ArrayMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson01.ArrayMethodDemo" />
       <module name="James james 1" />
@@ -74,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistanceFromAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson01.DistanceFromAverage" />
+    <configuration name="CreateAliens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson02.CreateAliens" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate.Lesson01.*" />
+          <option name="PATTERN" value="Intermediate.Lesson02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Lesson4.Exercise1" />
+    <configuration name="DemoHorses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson02.DemoHorses" />
       <module name="James james 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.Lesson4.*" />
+          <option name="PATTERN" value="Intermediate.Lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lesson02.Main" />
+      <module name="James james 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate.Lesson02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,26 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrewrittenMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Lesson3.PrewrittenMethod" />
-      <module name="James james 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.Lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayMethodDemo" />
-        <item itemvalue="Application.PrewrittenMethod" />
-        <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.DistanceFromAverage" />
+        <item itemvalue="Application.DemoHorses" />
+        <item itemvalue="Application.CreateAliens" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.NineInts" />
+        <item itemvalue="Application.ArrayMethodDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607306268278</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="IntermediateLesson1">
+      <created>1607443821134</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607443821134</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +318,7 @@
     <MESSAGE value="Lesson9" />
     <MESSAGE value="Lesson10" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="IntermediateLesson1" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntermediateLesson1" />
   </component>
 </project>
